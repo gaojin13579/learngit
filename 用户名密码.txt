@@ -1,0 +1,6 @@
+
+gaoji@DESKTOP-O0QUUAN MINGW64 ~
+$ git config --global user.name "gaojin"
+
+gaoji@DESKTOP-O0QUUAN MINGW64 ~
+$ git config --global user.email "gaojin13579@me.com"
